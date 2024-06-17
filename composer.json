@@ -1,6 +1,6 @@
 {
-  "name": "pyivanov/password-generator",
-  "description": "Generate password",
+  "name": "pyivanov/password-package",
+  "description": "Password generator",
   "type": "project",
   "autoload": {
     "psr-4": {
