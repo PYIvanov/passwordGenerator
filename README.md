@@ -1,7 +1,7 @@
 # randomPackage
 
 ## Requirements
-* PHP >= 7.0
+* PHP >= 8.2
 
 ## Installation
 
