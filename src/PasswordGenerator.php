@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Pyivanov\PasswordGenerator;
+namespace Pyivanov\PasswordPackage;
 
 use Random\RandomException;
 
