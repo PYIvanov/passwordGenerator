@@ -1,0 +1,19 @@
+{
+  "name": "pyivanov/password-generator",
+  "description": "Generate password",
+  "type": "project",
+  "autoload": {
+    "psr-4": {
+      "Pyivanov\\PasswordGenerator\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Pavel Ivanov",
+      "email": "xeolit@gmail.com"
+    }
+  ],
+  "require": {
+    "ext-mbstring": "*"
+  }
+}
