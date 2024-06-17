@@ -1,4 +1,4 @@
-# randomPackage
+# passwordPackage
 
 ## Requirements
 * PHP >= 8.2
